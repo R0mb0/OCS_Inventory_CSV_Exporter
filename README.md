@@ -7,7 +7,9 @@ A production-ready <strong>PowerShell + Playwright</strong> automation tool that
 Built for reliability, privacy, and unattended execution (Windows Task Scheduler friendly).
 </p>
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f0a23310a28647308a713a6dbdec2da5)](https://app.codacy.com/gh/R0mb0/OCS_Inventory_CSV_Exporter/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R0mb0/OCS_Inventory_CSV_Exporter)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/R0mb0/OCS_Inventory_CSV_Exporter)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
 [![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev/)
