@@ -7,6 +7,18 @@ A production-ready <strong>PowerShell + Playwright</strong> automation tool that
 Built for reliability, privacy, and unattended execution (Windows Task Scheduler friendly).
 </p>
 
+<div align="center">
+  <a href="http://paypal.me/R0mb0">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Light.svg">
+      <img alt="Saved you time? Support the dev" src="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Default.svg">
+    </picture>
+  </a>
+</div>
+
+---
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f0a23310a28647308a713a6dbdec2da5)](https://app.codacy.com/gh/R0mb0/OCS_Inventory_CSV_Exporter/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R0mb0/OCS_Inventory_CSV_Exporter)
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/R0mb0/OCS_Inventory_CSV_Exporter)
